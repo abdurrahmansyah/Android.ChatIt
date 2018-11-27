@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#a9d440</color>
+    <color name="pinkUnyu">#df556f</color>
+    <color name="floralWhite">#fcf9f4</color>
+
+    <color name="colorPrimary2">#607d8b</color>
+    <color name="colorPrimaryDark2">#455a64</color>
+    <color name="colorAccent2">#cfd8dc</color>
+
+</resources>

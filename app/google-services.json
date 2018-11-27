@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "135795969417",
+    "firebase_url": "https://androidchatit.firebaseio.com",
+    "project_id": "androidchatit",
+    "storage_bucket": "androidchatit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135795969417:android:50a6f75dcbe8f4d3",
+        "android_client_info": {
+          "package_name": "com.dev.ridho.androidchatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135795969417-kj61gvs3s4j9ui59qs51o2hbsu17vkep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.ridho.androidchatit",
+            "certificate_hash": "cf937f41103908d26ebf490d3f56c97e7aa789e4"
+          }
+        },
+        {
+          "client_id": "135795969417-9c13deanms73pb6s7doa2tkpi0n980ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgedlxB86nhFHaBN3g44GwpGRZGq9OGhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135795969417-9c13deanms73pb6s7doa2tkpi0n980ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
